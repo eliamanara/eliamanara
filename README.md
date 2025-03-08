@@ -3,9 +3,8 @@
   - Maths & Physics,
   - Computer Science,
   - Programming & Scripting,
-  - AI. 
-- 🌱 I’m currently learning the basics of AI.
-- 💞️ I’m looking to collaborate on Open Source Projects, whenever I perceive them as interesting!
+  - AI.
+- 💞️ I’m looking to collaborate on Open Source Projects, if I find them interesting!
 - 📫 How to reach me: UNDISCLOSED.
 
 <!---

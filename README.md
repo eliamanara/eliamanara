@@ -4,8 +4,6 @@
   - Computer Science,
   - Programming & Scripting,
   - AI.
-- 💞️ I’m looking to collaborate on Open Source Projects, if I find them interesting!
-- 📫 How to reach me: UNDISCLOSED.
 
 <!---
 eliamanara/eliamanara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
